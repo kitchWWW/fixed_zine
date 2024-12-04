@@ -1,0 +1,12 @@
+Playing Data is a collection of algorithmically generated graphic scores, each filled with gestural line, figure, and shape. The scores individually are to be performed by any soloist or ensemble currently owning the NFT corresponding to the particular work. Each are meant to evoke chaos, absurdity, and the computerized (and yet often human) quest for understanding. All the images found in the graphic scores come from machine learning datasets, and thus are presented for the observer to attempt to find meaning within.
+
+
+
+
+please write the section related to the my work, playing data:
+
+- start off with a one sentence brief summary of the artistic information outlined above.
+- and discuss how often in creative coding we pull from stock images or large data sets, and it is often impossible to credit the relevant creators appropriately.
+- in the context of my proposal to Break apart copyright authorship into a percentage allocation system, where each entity involved (human or non-human) responsible gains a partial ownership of the art, discuss how the work could be allocated (maybe 40% me, and the remaining 60% split among the individual artists, patients, and google map designers whose images make their way into my artwork)
+
+this will need to be just 1 page, so please keep it to just 2 or three paragraphs, thank you!
